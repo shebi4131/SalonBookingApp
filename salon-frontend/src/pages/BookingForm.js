@@ -97,7 +97,7 @@ function BookingForm() {
           <input type="time" className="form-control" name="timeSlot" value={booking.timeSlot} onChange={handleChange} required />
         </div>
 
-        <button type="submit" className="btn btn-primary">Book Now</button>
+        <button type="submit" className="btn btn-accent">Book Now</button>
       </form>
     </div>
   );

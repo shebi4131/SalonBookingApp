@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cXivMNIijHM=",
+  "dgSpecHash": "+TnZ9tcJ4t8=",
   "success": true,
-  "projectFilePath": "E:\\shoaib ahmed\\.NET Core\\SalonBookingAPI\\SalonBookingAPI\\SalonBookingAPI.csproj",
+  "projectFilePath": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\SalonBookingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

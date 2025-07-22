@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\shoaib ahmed\\.NET Core\\SalonBookingAPI\\SalonBookingAPI\\SalonBookingAPI.csproj": {}
+    "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\SalonBookingAPI.csproj": {}
   },
   "projects": {
-    "E:\\shoaib ahmed\\.NET Core\\SalonBookingAPI\\SalonBookingAPI\\SalonBookingAPI.csproj": {
+    "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\SalonBookingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\shoaib ahmed\\.NET Core\\SalonBookingAPI\\SalonBookingAPI\\SalonBookingAPI.csproj",
+        "projectUniqueName": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\SalonBookingAPI.csproj",
         "projectName": "SalonBookingAPI",
-        "projectPath": "E:\\shoaib ahmed\\.NET Core\\SalonBookingAPI\\SalonBookingAPI\\SalonBookingAPI.csproj",
+        "projectPath": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\SalonBookingAPI.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "E:\\shoaib ahmed\\.NET Core\\SalonBookingAPI\\SalonBookingAPI\\obj\\",
+        "outputPath": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
