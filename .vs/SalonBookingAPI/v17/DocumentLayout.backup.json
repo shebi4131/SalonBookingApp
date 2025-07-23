@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|e:\\shoaib ahmed\\.net core\\salonbookingapp\\salonbookingapp\\salonbookingapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02AC8E1-1BBE-40B6-A1E0-1A8F1D0E7AD2}|SalonBookingAPI\\SalonBookingAPI.csproj|solutionrelative:salonbookingapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\appsettings.json",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\appsettings.json",
+              "RelativeToolTip": "SalonBookingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T05:37:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\DTOs\\LoginDto.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "SalonBookingAPI\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:29:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SalonBookingAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:13:07.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SalonBookingAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:35:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\Program.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Program.cs",
+              "RelativeToolTip": "SalonBookingAPI\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:32:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SalonBookingAPI\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:31:45.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\DTOs\\RegisterDto.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "SalonBookingAPI\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:30:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\Controllers\\BookingController.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "SalonBookingAPI\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:28:31.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "SalonBookingAPI\\Controllers\\ServiceController.cs",
+              "ToolTip": "E:\\shoaib ahmed\\.NET Core\\SalonBookingApp\\SalonBookingApp\\SalonBookingAPI\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "SalonBookingAPI\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:28:20.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
