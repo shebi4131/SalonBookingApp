@@ -189,6 +189,9 @@ E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\De
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Azure.Core.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Azure.Identity.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Humanizer.dll
+E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -209,6 +212,8 @@ E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\De
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
@@ -343,10 +348,11 @@ E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\De
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\staticwebassets.development.json
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\SalonBoo.D7615889.Up2Date
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\SalonBookingAPI.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\refint\SalonBookingAPI.dll
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\SalonBookingAPI.pdb
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\SalonBookingAPI.genruntimeconfig.cache
 E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\ref\SalonBookingAPI.dll
+E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\shoaib ahmed\.NET Core\SalonBookingApp\SalonBookingApp\SalonBookingAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

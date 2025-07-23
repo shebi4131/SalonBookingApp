@@ -1,0 +1,7 @@
+/* Focus style for input, select, and textarea */
+.form-control:focus,
+.form-select:focus {
+  border-color: #b96fb0 !important;
+  box-shadow: 0 0 0 0.1rem rgba(185, 111, 176, 0.25) !important;
+  outline: none;
+}
