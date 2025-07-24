@@ -1,0 +1,76 @@
+/* styles/faqsection.css */
+.faq-section {
+  background: #fff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.faq-title {
+  font-size: 2.5rem;
+  color: #b94cb2;
+  margin-bottom: 10px;
+}
+
+.faq-subtitle {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 40px;
+}
+
+.faq-list {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.faq-item {
+  background: #fff8fd;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.faq-item:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+}
+
+.faq-question {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.faq-answer {
+  font-size: 0.95rem;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.4s ease;
+  opacity: 0;
+}
+
+.faq-item.active .faq-answer {
+  max-height: 200px;
+  opacity: 1;
+  margin-top: 10px;
+}
+/* Add below this line in styles/faqsection.css */
+.faq-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faq-icon {
+  font-size: 1rem;
+  color: #b94cb2;
+  transition: transform 0.3s ease;
+}
+
+.faq-item.active .faq-icon {
+  transform: rotate(180deg);
+}

@@ -1,0 +1,43 @@
+.why-choose-section {
+  padding: 80px 20px;
+  background-color: #f9f6fb;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  color: #b96fb0;
+  margin-bottom: 10px;
+}
+
+.section-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 50px;
+}
+
+.features-row {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.feature-card {
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  max-width: 300px;
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+}
+
+.feature-icon {
+  font-size: 40px;
+  color: #b96fb0;
+  margin-bottom: 20px;
+}

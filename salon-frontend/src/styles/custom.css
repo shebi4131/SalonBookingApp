@@ -5,7 +5,7 @@
   --primary-color: #FADADD;
   --secondary-color: #E7B8B1;
   --accent-color: #A45C5C;
-  --heading-color: #5E3B3B;
+  --heading-color: #ab61a9;
   --hover-bg: #FFE6DC;
 }
 
@@ -20,12 +20,6 @@ body {
 h1, h2, h3, h4 {
   font-family: 'Poppins', sans-serif !important;
   color: var(--heading-color);
-}
-
-/* Navbar / Menus */
-.navbar {
-  background-color: var(--primary-color) !important;
-  font-family: 'Poppins', sans-serif;
 }
 
 /* Custom buttons */
@@ -46,6 +40,6 @@ h1, h2, h3, h4 {
 .logo-text {
   font-family: 'Great Vibes', cursive;
   font-size: 32px;
-  color: #693864; /* from your palette */
+  color: #c269b9; /* from your palette */
 }
 
